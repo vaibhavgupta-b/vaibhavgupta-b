@@ -3,12 +3,12 @@
 
 Email Me 👉 ✉️ **vaibhav06g@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
+- 🔭 **I’m currently working on:** RAG Chatbot on Your Own Docs
+- 🌱 **I’m currently learning:**  DSA With Java
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🤔 **I’m looking for help with:** RAG Chatbot on Your Own Docs
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 📫 **How to reach me:** vaibhav06g@gmail.com
 - 😄 **Pronouns:** Vaibhav Gupta
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🔗 I am a B.tech Student**. 😊😊
